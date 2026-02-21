@@ -35,7 +35,7 @@ https://github.com/DesaiSahil148/Packet_analyzer
 
 ## 🎮 Game Project
 
-Built and deployed a custom game project to explore development, deployment, and monetization concepts.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
