@@ -31,14 +31,6 @@ https://github.com/DesaiSahil148/Packet_analyzer
 
 **Skills Used:** Python, Networking Concepts, Packet Inspection  
 
----
-
-## 🎮 Game Project
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
 ## 💻 Technical Skills
 
 **Programming Languages:**  
